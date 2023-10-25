@@ -1,4 +1,11 @@
-### Hi there 👋
+# My name is Rudy Rivera
+
+I'm a web developer currently in training at the Kodigo academy! I'm looking to specialize in web deverlopment to become a Fullstack Jr developer. I also have experience in Game Development using Unity and C#.
+
+
+# About me
+
+I live in El Salvador. My favorite animal is the Axolotl, a small anphibian native to Mexico who lives underwater all of their life! I love strategy games like Civ5, Stellaris, Hearts of Iron, and more. I also sing sometimes.
 
 <!--
 **RudyRi/RudyRi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
