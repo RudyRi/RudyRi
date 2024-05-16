@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rudy Rivera</h1>
 <h3 align="center">I'm a Fullstack Web Dev in El Salvador! 🇸🇻</h3>
 
-- 🔭 I’m currently working on [FiltradosSV](https://github.com/RudyRi/DUICheck)
+- 🔭 I’m currently working on [FiltradosSV]([https://www.filtradosv.info/])
 
-- 🌱 I’m currently learning **Fullstack Development, Laravel, mySQL, Python, LAMP server deployment, Docker**
+- 🌱 I’m currently learning **Fullstack Development, Laravel, MySQL, Python, LAMP server deployment, Docker**
 
 - 👯 I’m looking to collaborate on **Your next project!**
 
